@@ -1,2 +1,2 @@
-﻿Console.Writeline("Nicolás Gómez");
+Console.Writeline("Nicolás Gómez");
 console.Writeline("Milagros Kucharski");
